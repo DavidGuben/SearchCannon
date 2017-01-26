@@ -1,7 +1,10 @@
 .txt-shadow { text-shadow: 1px 1px 1px #000; }
 .wht-txt { color: #fff; }
 .blk-txt { color: #000; }
+<<<<<<< HEAD
 .margin-top { margin-top:50px; }
+=======
+>>>>>>> 602df654eb57a4c04b18c947de96abf6afc8d619
 
 html, body {
     height: 100%;
@@ -12,6 +15,7 @@ html, body {
     padding: 10px;
     height: 100%;
     width: 100%;
+<<<<<<< HEAD
     padding: 100px;
 }
 .top-buffer{
@@ -20,6 +24,12 @@ html, body {
 
 .bot-buffer{
     margin-bottom: 20px;
+=======
+
+}
+.jumbotron {
+  padding: 30px;
+>>>>>>> 602df654eb57a4c04b18c947de96abf6afc8d619
 }
 
 .text-gradient {
@@ -27,13 +37,21 @@ html, body {
 }
 
 .search-status{
+<<<<<<< HEAD
     padding: 7px;
     margin: 0px;
+=======
+    padding: 10px;
+    margin: 10px;
+>>>>>>> 602df654eb57a4c04b18c947de96abf6afc8d619
     text-align: center;
 }
 
 .form-wrapper {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 602df654eb57a4c04b18c947de96abf6afc8d619
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
@@ -51,8 +69,11 @@ html, body {
 }
 
 .form-search-bar {
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 602df654eb57a4c04b18c947de96abf6afc8d619
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
@@ -70,7 +91,10 @@ html, body {
 }
 
 #submit {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 602df654eb57a4c04b18c947de96abf6afc8d619
     border: 1px solid #00748f;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
